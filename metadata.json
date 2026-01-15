@@ -1,0 +1,7 @@
+{
+  "name": "Filecoin Decentralized Voting",
+  "description": "A secure, transparent blockchain voting system leveraging Filecoin (FVM) for decentralized governance and Gemini AI for proposal analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
